@@ -5,6 +5,8 @@ Note: eternally in WIP purgatory.
 * WEB-2 Reactification  of Web App
 * WEB-3 Add resume details
 * WEB-4 Add github/hackathons/Devpost projects
-* WEB-4 Add short bio about self
-* WEB-5 Beautify webapp
-* WEB-6 Add analytics
+* WEB-5 Add short bio about self
+* WEB-6 Beautify webapp
+* WEB-7 Add analytics
+* WEB-8 Organisation of webapp folders/directories
+* WEB-9 Think of more things to put into the product backlog
